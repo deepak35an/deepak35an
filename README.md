@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak kumar</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <div align="center">
-  <img src="[https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)" width="600" />
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="600" />
 </div>
 
 
